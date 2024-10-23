@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-color: gray; */
+    font-family: "Quicksand", sans-serif;
+}
+.button-css{
+    background-color: #FE8C45;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    padding: 10px;
+    
+}
+span{
+    color: #8A47F6;
+}
+
+.li-color{
+    color: #8A47F6;
+}
